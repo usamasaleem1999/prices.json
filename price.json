@@ -1,0 +1,2117 @@
+[
+  {
+    "name": "0x",
+    "ticker": "zrx",
+    "price": "0.1922194457167687"
+  },
+  {
+    "name": "1inch",
+    "ticker": "1inch",
+    "price": "0.5699810692832106"
+  },
+  {
+    "name": "Aave",
+    "ticker": "aave",
+    "price": "67.10319540905766"
+  },
+  {
+    "name": "Aavegotchi ALPHA",
+    "ticker": "alpha",
+    "price": "0.007766204750125143"
+  },
+  {
+    "name": "Aave (Wormhole)",
+    "ticker": "aave",
+    "price": "74.22703375618896"
+  },
+  {
+    "name": "Adventure Gold",
+    "ticker": "agld",
+    "price": "0.2534722096798571"
+  },
+  {
+    "name": "Akropolis",
+    "ticker": "akro",
+    "price": "0.002824797845574224"
+  },
+  {
+    "name": "Alchemix",
+    "ticker": "alcx",
+    "price": "18.00277270352687"
+  },
+  {
+    "name": "Aleph.im",
+    "ticker": "aleph",
+    "price": "0.0609252307670685"
+  },
+  {
+    "name": "Algorand",
+    "ticker": "algo",
+    "price": "0.3185283646431097"
+  },
+  {
+    "name": "Alien Worlds",
+    "ticker": "tlm",
+    "price": "0.0166017638479324"
+  },
+  {
+    "name": "Alitas",
+    "ticker": "alt",
+    "price": "0.2195776427922999"
+  },
+  {
+    "name": "Allspot",
+    "ticker": "alt",
+    "price": "1.870442172715649e-05"
+  },
+  {
+    "name": "AlphaCoin",
+    "ticker": "alpha",
+    "price": "0.008195683772422796"
+  },
+  {
+    "name": "Alpha Venture DAO",
+    "ticker": "alpha",
+    "price": "0.09693674340419332"
+  },
+  {
+    "name": "Alt Coin",
+    "ticker": "alt",
+    "price": "2.299446695663995e-08"
+  },
+  {
+    "name": "AltEstate",
+    "ticker": "alt",
+    "price": "0.0001002536641383795"
+  },
+  {
+    "name": "altfolio",
+    "ticker": "alt",
+    "price": "0.001022118070748591"
+  },
+  {
+    "name": "AMC Entertainment Preferred Tokenized Stock on FTX",
+    "ticker": "apeamc",
+    "price": "3.13861071550501"
+  },
+  {
+    "name": "Ampleforth",
+    "ticker": "ampl",
+    "price": "1.007091039920185"
+  },
+  {
+    "name": "Anchor Protocol",
+    "ticker": "anc",
+    "price": "0.05698188350882613"
+  },
+  {
+    "name": "APE",
+    "ticker": "ape",
+    "price": "6.356149696040345e-08"
+  },
+  {
+    "name": "ApeCoin",
+    "ticker": "ape",
+    "price": "3.39391200607725"
+  },
+  {
+    "name": "ApeJet",
+    "ticker": "jet",
+    "price": "165.5633040368236"
+  },
+  {
+    "name": "APEmove",
+    "ticker": "ape",
+    "price": "0.02044930900627111"
+  },
+  {
+    "name": "Apidae",
+    "ticker": "apt",
+    "price": "9.01904099145639e-05"
+  },
+  {
+    "name": "Aptos",
+    "ticker": "apt",
+    "price": "5.128589093712641"
+  },
+  {
+    "name": "AptosLaunch Token",
+    "ticker": "alt",
+    "price": "0.06629928632334847"
+  },
+  {
+    "name": "Arweave",
+    "ticker": "ar",
+    "price": "10.37254758203973"
+  },
+  {
+    "name": "AscendEx",
+    "ticker": "asd",
+    "price": "0.07059178349330987"
+  },
+  {
+    "name": "Astar",
+    "ticker": "astr",
+    "price": "0.03990842361949552"
+  },
+  {
+    "name": "Atlantis",
+    "ticker": "atlas",
+    "price": "0.07202689431090993"
+  },
+  {
+    "name": "Atlas FC Fan Token",
+    "ticker": "atlas",
+    "price": "2.380711383039377"
+  },
+  {
+    "name": "Audius",
+    "ticker": "audio",
+    "price": "0.1640403196759994"
+  },
+  {
+    "name": "Audius (Wormhole)",
+    "ticker": "audio",
+    "price": "0.162718820058925"
+  },
+  {
+    "name": "Aurory",
+    "ticker": "aury",
+    "price": "0.5664895762248092"
+  },
+  {
+    "name": "Avalanche",
+    "ticker": "avax",
+    "price": "15.01501849154245"
+  },
+  {
+    "name": "Avalanche (Wormhole)",
+    "ticker": "avax",
+    "price": "15.30078568123781"
+  },
+  {
+    "name": "Axie Infinity",
+    "ticker": "axs",
+    "price": "7.273784009661335"
+  },
+  {
+    "name": "Aztec Nodes SUN",
+    "ticker": "sun",
+    "price": "0.004672611159330833"
+  },
+  {
+    "name": "Badger DAO",
+    "ticker": "badger",
+    "price": "2.793742844712797"
+  },
+  {
+    "name": "Balancer",
+    "ticker": "bal",
+    "price": "5.36347311135098"
+  },
+  {
+    "name": "Bancor Network",
+    "ticker": "bnt",
+    "price": "0.3878438638722005"
+  },
+  {
+    "name": "Band Protocol",
+    "ticker": "band",
+    "price": "2.533370700720432"
+  },
+  {
+    "name": "BAO",
+    "ticker": "bao",
+    "price": "7.285153338779276e-11"
+  },
+  {
+    "name": "Bao Finance",
+    "ticker": "bao",
+    "price": "0.0001039694169060438"
+  },
+  {
+    "name": "Bao Finance V2",
+    "ticker": "bao",
+    "price": "0.9965672467686556"
+  },
+  {
+    "name": "Basic Attention",
+    "ticker": "bat",
+    "price": "0.2662252113436322"
+  },
+  {
+    "name": "BEAM",
+    "ticker": "beam",
+    "price": "0.1219298618890744"
+  },
+  {
+    "name": "BENQI",
+    "ticker": "qi",
+    "price": "0.006547480288317365"
+  },
+  {
+    "name": "Biconomy",
+    "ticker": "bico",
+    "price": "0.3014708109504095"
+  },
+  {
+    "name": "Biconomy Exchange",
+    "ticker": "bit",
+    "price": "6.247247199829829e-06"
+  },
+  {
+    "name": "BiLira",
+    "ticker": "tryb",
+    "price": "0.05196431469138301"
+  },
+  {
+    "name": "BNB",
+    "ticker": "bnb",
+    "price": "298.4174318360048"
+  },
+  {
+    "name": "Binance Coin (Wormhole)",
+    "ticker": "bnb",
+    "price": "326.9888518927146"
+  },
+  {
+    "name": "Binance-Peg Avalanche",
+    "ticker": "avax",
+    "price": "15.06351158708708"
+  },
+  {
+    "name": "Binance-Peg Bitcoin Cash",
+    "ticker": "bch",
+    "price": "104.5815527870951"
+  },
+  {
+    "name": "Binance-Peg Cardano",
+    "ticker": "ada",
+    "price": "0.3632470529866722"
+  },
+  {
+    "name": "Binance-Peg Dogecoin",
+    "ticker": "doge",
+    "price": "0.08797998728264807"
+  },
+  {
+    "name": "Binance-Peg EOS",
+    "ticker": "eos",
+    "price": "0.9311283457142997"
+  },
+  {
+    "name": "Binance-Peg Filecoin",
+    "ticker": "fil",
+    "price": "4.559896366033906"
+  },
+  {
+    "name": "Binance-Peg Litecoin",
+    "ticker": "ltc",
+    "price": "62.56668512559811"
+  },
+  {
+    "name": "Binance-Peg Ontology",
+    "ticker": "ont",
+    "price": "0.1835220372614009"
+  },
+  {
+    "name": "Binance-Peg Polkadot",
+    "ticker": "dot",
+    "price": "5.808496039014087"
+  },
+  {
+    "name": "Binance-Peg XRP",
+    "ticker": "xrp",
+    "price": "0.3908963708084608"
+  },
+  {
+    "name": "Binance USD",
+    "ticker": "busd",
+    "price": "1.004998402433658"
+  },
+  {
+    "name": "Bit",
+    "ticker": "bit",
+    "price": "0.0"
+  },
+  {
+    "name": "Bitcoin",
+    "ticker": "btc",
+    "price": "17460.35435368388"
+  },
+  {
+    "name": "Bitcoin Cash",
+    "ticker": "bch",
+    "price": "104.0982723445453"
+  },
+  {
+    "name": "Bitcoin SV",
+    "ticker": "bsv",
+    "price": "38.52915668534256"
+  },
+  {
+    "name": "BitDAO",
+    "ticker": "bit",
+    "price": "0.3345534095562555"
+  },
+  {
+    "name": "Bitmon",
+    "ticker": "bit",
+    "price": "0.0002524299306831341"
+  },
+  {
+    "name": "BitTorrent",
+    "ticker": "btt",
+    "price": "7.292391705461191e-07"
+  },
+  {
+    "name": "Blithe",
+    "ticker": "blt",
+    "price": "0.001028783945954276"
+  },
+  {
+    "name": "Stacks",
+    "ticker": "stx",
+    "price": "0.2470247713107815"
+  },
+  {
+    "name": "Blocto",
+    "ticker": "blt",
+    "price": "0.04505019444521851"
+  },
+  {
+    "name": "Bloom",
+    "ticker": "blt",
+    "price": "0.02564536541028237"
+  },
+  {
+    "name": "Boba Network",
+    "ticker": "boba",
+    "price": "0.2303228857840779"
+  },
+  {
+    "name": "Bobamask",
+    "ticker": "boba",
+    "price": "1.079038240907058e-08"
+  },
+  {
+    "name": "Bonfida",
+    "ticker": "fida",
+    "price": "0.2452209853686995"
+  },
+  {
+    "name": "Brazilian Digital",
+    "ticker": "brz",
+    "price": "0.181953460029948"
+  },
+  {
+    "name": "Bullet",
+    "ticker": "blt",
+    "price": "0.0002958719662395238"
+  },
+  {
+    "name": "C2X",
+    "ticker": "ctx",
+    "price": "0.4793119590343227"
+  },
+  {
+    "name": "Cardano",
+    "ticker": "ada",
+    "price": "0.3650723127630363"
+  },
+  {
+    "name": "Carry",
+    "ticker": "cre",
+    "price": "0.003262907670238904"
+  },
+  {
+    "name": "Celo",
+    "ticker": "celo",
+    "price": "0.5071218051020079"
+  },
+  {
+    "name": "Celsius Network",
+    "ticker": "cel",
+    "price": "0.6523198889022622"
+  },
+  {
+    "name": "Chainlink",
+    "ticker": "link",
+    "price": "7.077204836756162"
+  },
+  {
+    "name": "Chainlink (Wormhole)",
+    "ticker": "link",
+    "price": "7.811285938227988"
+  },
+  {
+    "name": "Chiliz",
+    "ticker": "chz",
+    "price": "0.2272040341164799"
+  },
+  {
+    "name": "Chromia",
+    "ticker": "chr",
+    "price": "0.1188663947774171"
+  },
+  {
+    "name": "City Coin",
+    "ticker": "city",
+    "price": "0.07643503039746287"
+  },
+  {
+    "name": "Civic",
+    "ticker": "cvc",
+    "price": "0.09647725130001303"
+  },
+  {
+    "name": "Clover",
+    "ticker": "clv",
+    "price": "0.3940181704621462"
+  },
+  {
+    "name": "Clover Finance",
+    "ticker": "clv",
+    "price": "0.06241325054439079"
+  },
+  {
+    "name": "Coin98",
+    "ticker": "c98",
+    "price": "0.2160354823888467"
+  },
+  {
+    "name": "CoinGhost",
+    "ticker": "gst",
+    "price": "0.002892651739948093"
+  },
+  {
+    "name": "Compound Coin",
+    "ticker": "comp",
+    "price": "2.686330417568104e-06"
+  },
+  {
+    "name": "Compound",
+    "ticker": "comp",
+    "price": "39.49311787720038"
+  },
+  {
+    "name": "cUSDT",
+    "ticker": "cusdt",
+    "price": "0.02206522125157944"
+  },
+  {
+    "name": "ConstitutionDAO",
+    "ticker": "people",
+    "price": "0.02589538317947587"
+  },
+  {
+    "name": "ConstitutionDAO (Wormhole)",
+    "ticker": "people",
+    "price": "0.02299487857322981"
+  },
+  {
+    "name": "Convergence",
+    "ticker": "conv",
+    "price": "0.0005803907461161072"
+  },
+  {
+    "name": "Convex Finance",
+    "ticker": "cvx",
+    "price": "4.15912048060083"
+  },
+  {
+    "name": "Cope",
+    "ticker": "cope",
+    "price": "0.02752011328598162"
+  },
+  {
+    "name": "Cosmic Universe Magic",
+    "ticker": "magic",
+    "price": "0.008023826030958617"
+  },
+  {
+    "name": "Cosmos Hub",
+    "ticker": "atom",
+    "price": "12.11378000632844"
+  },
+  {
+    "name": "Covalent",
+    "ticker": "cqt",
+    "price": "0.09156052730039528"
+  },
+  {
+    "name": "CoviCoin",
+    "ticker": "cvc",
+    "price": "7.536142640034594e-05"
+  },
+  {
+    "name": "Cream",
+    "ticker": "cream",
+    "price": "7.810728004266124"
+  },
+  {
+    "name": "Crescent Network",
+    "ticker": "cre",
+    "price": "0.1240294597967075"
+  },
+  {
+    "name": "Cripco",
+    "ticker": "ip3",
+    "price": "0.3279056735057341"
+  },
+  {
+    "name": "Cryptex Finance",
+    "ticker": "ctx",
+    "price": "2.443274189928387"
+  },
+  {
+    "name": "Cronos",
+    "ticker": "cro",
+    "price": "0.09463263431629243"
+  },
+  {
+    "name": "Curve DAO",
+    "ticker": "crv",
+    "price": "0.6814777717068855"
+  },
+  {
+    "name": "D3",
+    "ticker": "defi",
+    "price": "2.18787990781229"
+  },
+  {
+    "name": "Dai",
+    "ticker": "dai",
+    "price": "1.005502902655057"
+  },
+  {
+    "name": "Dash",
+    "ticker": "dash",
+    "price": "37.08654759070266"
+  },
+  {
+    "name": "Dawn Protocol",
+    "ticker": "dawn",
+    "price": "0.5779222993141937"
+  },
+  {
+    "name": "Decentraland",
+    "ticker": "mana",
+    "price": "0.5188764543961544"
+  },
+  {
+    "name": "Decentraland (Wormhole)",
+    "ticker": "mana",
+    "price": "0.5373676668616141"
+  },
+  {
+    "name": "DeFIL",
+    "ticker": "dfl",
+    "price": "0.003783691006589641"
+  },
+  {
+    "name": "DeFi Land",
+    "ticker": "dfl",
+    "price": "0.001147626178474546"
+  },
+  {
+    "name": "Defily",
+    "ticker": "dfl",
+    "price": "0.0004540573051295992"
+  },
+  {
+    "name": "Dent",
+    "ticker": "dent",
+    "price": "0.0007164337532143634"
+  },
+  {
+    "name": "DMM     Governance",
+    "ticker": "dmg",
+    "price": "0.009149102169805612"
+  },
+  {
+    "name": "DODO",
+    "ticker": "dodo",
+    "price": "0.1166268936300948"
+  },
+  {
+    "name": "Dogecoin",
+    "ticker": "doge",
+    "price": "0.08923007641943917"
+  },
+  {
+    "name": "dYdX",
+    "ticker": "dydx",
+    "price": "1.921519377014098"
+  },
+  {
+    "name": "dYdX (Wormhole)",
+    "ticker": "dydx",
+    "price": "1.921974213204998"
+  },
+  {
+    "name": "EDEN",
+    "ticker": "eden",
+    "price": "0.08262376193251648"
+  },
+  {
+    "name": "MultiversX (Elrond)",
+    "ticker": "egld",
+    "price": "47.01976901843614"
+  },
+  {
+    "name": "Enjin Coin",
+    "ticker": "enj",
+    "price": "0.3626968898653496"
+  },
+  {
+    "name": "EOS",
+    "ticker": "eos",
+    "price": "0.9311369461918924"
+  },
+  {
+    "name": "Ethereum",
+    "ticker": "eth",
+    "price": "1283.977185718738"
+  },
+  {
+    "name": "Ethereum Classic",
+    "ticker": "etc",
+    "price": "22.15165247654165"
+  },
+  {
+    "name": "Ethereum Name Service",
+    "ticker": "ens",
+    "price": "13.05354377988884"
+  },
+  {
+    "name": "EthereumPoW",
+    "ticker": "ethw",
+    "price": "4.268171077061596"
+  },
+  {
+    "name": "Ethereum (Wormhole)",
+    "ticker": "eth",
+    "price": "1268.765921210288"
+  },
+  {
+    "name": "Voyager VGX",
+    "ticker": "vgx",
+    "price": "0.2598193008800468"
+  },
+  {
+    "name": "Euler",
+    "ticker": "eul",
+    "price": "6.524582416465385"
+  },
+  {
+    "name": "Euro Coin",
+    "ticker": "euroc",
+    "price": "1.017753438834154"
+  },
+  {
+    "name": "Fantom",
+    "ticker": "ftm",
+    "price": "0.2038627122637919"
+  },
+  {
+    "name": "FC Barcelona Fan Token",
+    "ticker": "bar",
+    "price": "4.1926361529183"
+  },
+  {
+    "name": "Filecoin",
+    "ticker": "fil",
+    "price": "4.570286909930408"
+  },
+  {
+    "name": "Fitmin",
+    "ticker": "ftm",
+    "price": "7.84651262320806e-11"
+  },
+  {
+    "name": "Flamingo Finance",
+    "ticker": "flm",
+    "price": "0.08512532087393464"
+  },
+  {
+    "name": "Flow",
+    "ticker": "flow",
+    "price": "1.339220545132649"
+  },
+  {
+    "name": "Flower",
+    "ticker": "flow",
+    "price": "0.6506261065081039"
+  },
+  {
+    "name": "Datamine FLUX",
+    "ticker": "flux",
+    "price": "0.03290214147849065"
+  },
+  {
+    "name": "Flux Protocol",
+    "ticker": "flux",
+    "price": "0.01987449981107597"
+  },
+  {
+    "name": "Force Bridge USDC",
+    "ticker": "usdc",
+    "price": "0.9931473956091369"
+  },
+  {
+    "name": "Frax",
+    "ticker": "frax",
+    "price": "1.001546583578242"
+  },
+  {
+    "name": "Frax Share",
+    "ticker": "fxs",
+    "price": "5.200246239010585"
+  },
+  {
+    "name": "Frontier",
+    "ticker": "front",
+    "price": "0.1772630770915486"
+  },
+  {
+    "name": "FTX",
+    "ticker": "ftt",
+    "price": "3.314629784099079"
+  },
+  {
+    "name": "FTX (Wormhole)",
+    "ticker": "ftt",
+    "price": "0.9335677919626353"
+  },
+  {
+    "name": "GALA",
+    "ticker": "gala",
+    "price": "0.03241844382167196"
+  },
+  {
+    "name": "Galatasaray Fan Token",
+    "ticker": "gal",
+    "price": "1.724053986442121"
+  },
+  {
+    "name": "Gallant",
+    "ticker": "gal",
+    "price": "7.413364281631194e-10"
+  },
+  {
+    "name": "Game Stars",
+    "ticker": "gst",
+    "price": "1.374792566362757e-05"
+  },
+  {
+    "name": "GameX",
+    "ticker": "gmx",
+    "price": "5.987096786929639e-05"
+  },
+  {
+    "name": "Gari Network",
+    "ticker": "gari",
+    "price": "0.03836527926205166"
+  },
+  {
+    "name": "Gate",
+    "ticker": "gt",
+    "price": "3.944594097548718"
+  },
+  {
+    "name": "Gene",
+    "ticker": "gene",
+    "price": "0.003982337275549626"
+  },
+  {
+    "name": "Genesis Mana",
+    "ticker": "mana",
+    "price": "0.5189202334630351"
+  },
+  {
+    "name": "Genopets",
+    "ticker": "gene",
+    "price": "1.759794198551228"
+  },
+  {
+    "name": "GMT",
+    "ticker": "gmt",
+    "price": "0.08059224092743679"
+  },
+  {
+    "name": "GMX",
+    "ticker": "gmx",
+    "price": "34.43402374200374"
+  },
+  {
+    "name": "Gods Unchained",
+    "ticker": "gods",
+    "price": "0.2502437082780993"
+  },
+  {
+    "name": "GrEarn",
+    "ticker": "gst",
+    "price": "0.0004517322582427964"
+  },
+  {
+    "name": "GreekMythology",
+    "ticker": "gmt",
+    "price": "4.75629320998526e-10"
+  },
+  {
+    "name": "Green Ride",
+    "ticker": "grt",
+    "price": "0.1083103541349083"
+  },
+  {
+    "name": "GSTCOIN",
+    "ticker": "gst",
+    "price": "0.02776142397008688"
+  },
+  {
+    "name": "Guild of Guardians",
+    "ticker": "gog",
+    "price": "0.1115053490653322"
+  },
+  {
+    "name": "Harmony",
+    "ticker": "one",
+    "price": "0.01557966042516788"
+  },
+  {
+    "name": "Synthetix Network",
+    "ticker": "snx",
+    "price": "1.91470369090862"
+  },
+  {
+    "name": "Heco-Peg Binance Coin",
+    "ticker": "bnb",
+    "price": "298.1348292772988"
+  },
+  {
+    "name": "Heco-Peg XRP",
+    "ticker": "xrp",
+    "price": "0.3887949275477556"
+  },
+  {
+    "name": "Hedera",
+    "ticker": "hbar",
+    "price": "0.04938582786904868"
+  },
+  {
+    "name": "Hedget",
+    "ticker": "hget",
+    "price": "0.3590115762393154"
+  },
+  {
+    "name": "Helium",
+    "ticker": "hnt",
+    "price": "2.979756509768028"
+  },
+  {
+    "name": "Hierocoin",
+    "ticker": "bar",
+    "price": "0.003319233943843972"
+  },
+  {
+    "name": "Holo",
+    "ticker": "hot",
+    "price": "0.001715690999700069"
+  },
+  {
+    "name": "Holy Trinity",
+    "ticker": "holy",
+    "price": "1.418392439215405"
+  },
+  {
+    "name": "Hubble",
+    "ticker": "hbb",
+    "price": "0.07216788502174108"
+  },
+  {
+    "name": "HUMAN Protocol",
+    "ticker": "hmt",
+    "price": "0.05233370880133536"
+  },
+  {
+    "name": "Humanscape",
+    "ticker": "hum",
+    "price": "0.09094659494643996"
+  },
+  {
+    "name": "Hummus",
+    "ticker": "hum",
+    "price": "0.01628779742107464"
+  },
+  {
+    "name": "Huobi",
+    "ticker": "ht",
+    "price": "6.064978164891953"
+  },
+  {
+    "name": "HUSD",
+    "ticker": "husd",
+    "price": "0.1857667406481265"
+  },
+  {
+    "name": "Hxro",
+    "ticker": "hxro",
+    "price": "0.06078080160735411"
+  },
+  {
+    "name": "Hydro Protocol",
+    "ticker": "hot",
+    "price": "0.001721651580057883"
+  },
+  {
+    "name": "Hymnode",
+    "ticker": "hnt",
+    "price": "0.0118362190639102"
+  },
+  {
+    "name": "HyperOne",
+    "ticker": "hot",
+    "price": "0.149577795552786"
+  },
+  {
+    "name": "IceCream Finance",
+    "ticker": "cream",
+    "price": "0.1165603627442269"
+  },
+  {
+    "name": "ICON",
+    "ticker": "icx",
+    "price": "0.1692791655848781"
+  },
+  {
+    "name": "ImmutableX",
+    "ticker": "imx",
+    "price": "0.4772367362166423"
+  },
+  {
+    "name": "Impermax [OLD]",
+    "ticker": "imx",
+    "price": "0.0002824347154820828"
+  },
+  {
+    "name": "IndiGG",
+    "ticker": "indi",
+    "price": "0.1123137190339383"
+  },
+  {
+    "name": "Injective",
+    "ticker": "inj",
+    "price": "1.771231353786187"
+  },
+  {
+    "name": "Inter Milan Fan Token",
+    "ticker": "inter",
+    "price": "2.411258539472032"
+  },
+  {
+    "name": "Internet Computer",
+    "ticker": "icp",
+    "price": "4.266189520333549"
+  },
+  {
+    "name": "IOST",
+    "ticker": "iost",
+    "price": "0.00913806454264647"
+  },
+  {
+    "name": "I will poop it NFT",
+    "ticker": "shit",
+    "price": "1.479151463135564e-08"
+  },
+  {
+    "name": "JasmyCoin",
+    "ticker": "jasmy",
+    "price": "0.00408771504312586"
+  },
+  {
+    "name": "JET",
+    "ticker": "jet",
+    "price": "0.07637178826032955"
+  },
+  {
+    "name": "Jetcoin",
+    "ticker": "jet",
+    "price": "0.00967103027313809"
+  },
+  {
+    "name": "JOE",
+    "ticker": "joe",
+    "price": "0.1633818510693296"
+  },
+  {
+    "name": "JUST",
+    "ticker": "jst",
+    "price": "0.0238202902672469"
+  },
+  {
+    "name": "Kaiken Shiba",
+    "ticker": "kshib",
+    "price": "2.202711465305189e-13"
+  },
+  {
+    "name": "Kava",
+    "ticker": "kava",
+    "price": "0.9933528181870879"
+  },
+  {
+    "name": "Kilo Shiba Inu",
+    "ticker": "kshib",
+    "price": "0.009831054564249462"
+  },
+  {
+    "name": "Kin",
+    "ticker": "kin",
+    "price": "9.241717721601896e-06"
+  },
+  {
+    "name": "Klaytn",
+    "ticker": "klay",
+    "price": "0.1916554859858701"
+  },
+  {
+    "name": "Kusama",
+    "ticker": "ksm",
+    "price": "27.40613431863112"
+  },
+  {
+    "name": "Kyber Network Crystal",
+    "ticker": "knc",
+    "price": "0.6346369935448952"
+  },
+  {
+    "name": "Laro",
+    "ticker": "lrc",
+    "price": "9.56902234862675e-05"
+  },
+  {
+    "name": "Leo",
+    "ticker": "leo",
+    "price": "10.06059451172764"
+  },
+  {
+    "name": "Leonidas",
+    "ticker": "leo",
+    "price": "0.0003550969516926333"
+  },
+  {
+    "name": "LEO Token",
+    "ticker": "leo",
+    "price": "3.988139290622005"
+  },
+  {
+    "name": "Lido DAO",
+    "ticker": "ldo",
+    "price": "1.216633587441907"
+  },
+  {
+    "name": "Lido DAO (Wormhole)",
+    "ticker": "ldo",
+    "price": "1.198934968368781"
+  },
+  {
+    "name": "Lido Staked SOL",
+    "ticker": "stsol",
+    "price": "17.48194389694732"
+  },
+  {
+    "name": "LINA",
+    "ticker": "lina",
+    "price": "0.0002567838131741644"
+  },
+  {
+    "name": "Linear",
+    "ticker": "lina",
+    "price": "0.006429938163820292"
+  },
+  {
+    "name": "Listenify",
+    "ticker": "audio",
+    "price": "0.002224272794660688"
+  },
+  {
+    "name": "Litecoin",
+    "ticker": "ltc",
+    "price": "62.56152883939482"
+  },
+  {
+    "name": "LooksRare",
+    "ticker": "looks",
+    "price": "0.1583964999146077"
+  },
+  {
+    "name": "Loom Network (NEW)",
+    "ticker": "loom",
+    "price": "0.04725838620573188"
+  },
+  {
+    "name": "Loopring",
+    "ticker": "lrc",
+    "price": "0.2690727330701038"
+  },
+  {
+    "name": "LuaSwap",
+    "ticker": "lua",
+    "price": "0.01982202294616844"
+  },
+  {
+    "name": "Terra Classic (Wormhole)",
+    "ticker": "lunc",
+    "price": "0.0001957751438875844"
+  },
+  {
+    "name": "Magic",
+    "ticker": "magic",
+    "price": "0.283856827440247"
+  },
+  {
+    "name": "MagicofGold",
+    "ticker": "magic",
+    "price": "1.085507398213772e-05"
+  },
+  {
+    "name": "MagicLand",
+    "ticker": "magic",
+    "price": "0.002546755921058667"
+  },
+  {
+    "name": "Maker",
+    "ticker": "mkr",
+    "price": "834.3414566900208"
+  },
+  {
+    "name": "Manchester City Fan Token",
+    "ticker": "city",
+    "price": "4.8496385951684"
+  },
+  {
+    "name": "Mango",
+    "ticker": "mngo",
+    "price": "0.0122339475434008"
+  },
+  {
+    "name": "MAPS",
+    "ticker": "maps",
+    "price": "0.1048628540142912"
+  },
+  {
+    "name": "Mask Network",
+    "ticker": "mask",
+    "price": "3.369167799943356"
+  },
+  {
+    "name": "MASK Vault (NFTX)",
+    "ticker": "mask",
+    "price": "287.3429578987118"
+  },
+  {
+    "name": "MATH",
+    "ticker": "math",
+    "price": "0.114085084138326"
+  },
+  {
+    "name": "Polygon",
+    "ticker": "matic",
+    "price": "1.091649013201058"
+  },
+  {
+    "name": "MUX Protocol",
+    "ticker": "mcb",
+    "price": "4.527802550019397"
+  },
+  {
+    "name": "Media Network",
+    "ticker": "media",
+    "price": "5.004365237186202"
+  },
+  {
+    "name": "Mercurial",
+    "ticker": "mer",
+    "price": "0.009237930958382741"
+  },
+  {
+    "name": "Mercury",
+    "ticker": "mer",
+    "price": "0.000523509073320939"
+  },
+  {
+    "name": "mStable Governance     Meta",
+    "ticker": "mta",
+    "price": "0.0385186475386054"
+  },
+  {
+    "name": "MetaAxis",
+    "ticker": "mta",
+    "price": "9.75146186721612e-10"
+  },
+  {
+    "name": "Metal DAO",
+    "ticker": "mtl",
+    "price": "0.7154349596221489"
+  },
+  {
+    "name": "Metaplex",
+    "ticker": "mplx",
+    "price": "0.06272299252853665"
+  },
+  {
+    "name": "Mina Protocol",
+    "ticker": "mina",
+    "price": "0.5976149953862665"
+  },
+  {
+    "name": "Mithril",
+    "ticker": "mith",
+    "price": "0.01558291858097923"
+  },
+  {
+    "name": "MobileCoin",
+    "ticker": "mob",
+    "price": "0.6467467286142556"
+  },
+  {
+    "name": "Mogul Productions",
+    "ticker": "stars",
+    "price": "0.003900960832988806"
+  },
+  {
+    "name": "Monero",
+    "ticker": "xmr",
+    "price": "132.4962100795927"
+  },
+  {
+    "name": "MonkeyLeague",
+    "ticker": "mbs",
+    "price": "0.09366354287563258"
+  },
+  {
+    "name": "Monster Battle",
+    "ticker": "mbs",
+    "price": "0.0001842089545523761"
+  },
+  {
+    "name": "Moonbeam",
+    "ticker": "glmr",
+    "price": "0.4002834043955702"
+  },
+  {
+    "name": "Marinade staked SOL",
+    "ticker": "msol",
+    "price": "17.47317065214011"
+  },
+  {
+    "name": "Mycelium",
+    "ticker": "myc",
+    "price": "0.02867959850881112"
+  },
+  {
+    "name": "My Neighbor Alice",
+    "ticker": "alice",
+    "price": "1.240060941574077"
+  },
+  {
+    "name": "Myteamcoin",
+    "ticker": "myc",
+    "price": "0.0001421558661853562"
+  },
+  {
+    "name": "NEAR Protocol",
+    "ticker": "near",
+    "price": "2.235804621213037"
+  },
+  {
+    "name": "NEM",
+    "ticker": "xem",
+    "price": "0.03462414859436011"
+  },
+  {
+    "name": "NEO",
+    "ticker": "neo",
+    "price": "7.031834193139935"
+  },
+  {
+    "name": "NEXO",
+    "ticker": "nexo",
+    "price": "0.7932314135485755"
+  },
+  {
+    "name": "Oasis Network",
+    "ticker": "rose",
+    "price": "0.05153428515361909"
+  },
+  {
+    "name": "OEC Binance Coin",
+    "ticker": "bnb",
+    "price": "297.6318328498029"
+  },
+  {
+    "name": "OKB",
+    "ticker": "okb",
+    "price": "19.57677868465546"
+  },
+  {
+    "name": "Omega Finance",
+    "ticker": "omg",
+    "price": "0.02056517871218149"
+  },
+  {
+    "name": "OMG Network",
+    "ticker": "omg",
+    "price": "1.296569714595387"
+  },
+  {
+    "name": "One",
+    "ticker": "one",
+    "price": "0.0005274359235577848"
+  },
+  {
+    "name": "Ontology",
+    "ticker": "ont",
+    "price": "0.1836439511441271"
+  },
+  {
+    "name": "OpenDAO",
+    "ticker": "sos",
+    "price": "1.804663729873001e-07"
+  },
+  {
+    "name": "Optimism",
+    "ticker": "op",
+    "price": "1.006046565023595"
+  },
+  {
+    "name": "Orbs",
+    "ticker": "orbs",
+    "price": "0.02662214001965724"
+  },
+  {
+    "name": "Orca",
+    "ticker": "orca",
+    "price": "0.5264238119313005"
+  },
+  {
+    "name": "Orca DAO",
+    "ticker": "orca",
+    "price": "7.96173289956256e-05"
+  },
+  {
+    "name": "Overline Emblem",
+    "ticker": "emb",
+    "price": "0.02499726013886069"
+  },
+  {
+    "name": "Oxygen",
+    "ticker": "oxy",
+    "price": "0.03167767299207428"
+  },
+  {
+    "name": "PackagePortal",
+    "ticker": "port",
+    "price": "0.1149596480783451"
+  },
+  {
+    "name": "PancakeSwap",
+    "ticker": "cake",
+    "price": "4.207692593679775"
+  },
+  {
+    "name": "ParadiseFi",
+    "ticker": "eden",
+    "price": "5.27241394452829e-07"
+  },
+  {
+    "name": "Paris Saint-Germain Fan Token",
+    "ticker": "psg",
+    "price": "6.019921991629455"
+  },
+  {
+    "name": "Parkgene",
+    "ticker": "gene",
+    "price": "0.0007911336996236123"
+  },
+  {
+    "name": "PAX Gold",
+    "ticker": "paxg",
+    "price": "1764.288866954657"
+  },
+  {
+    "name": "Paxos Gold (Wormhole)",
+    "ticker": "paxg",
+    "price": "2165.344793194533"
+  },
+  {
+    "name": "Pax Dollar",
+    "ticker": "usdp",
+    "price": "1.00349236986573"
+  },
+  {
+    "name": "Perpetual Protocol",
+    "ticker": "perp",
+    "price": "0.3884658746210981"
+  },
+  {
+    "name": "Pintu",
+    "ticker": "ptu",
+    "price": "0.4466501777631304"
+  },
+  {
+    "name": "Playground Waves Floor Index",
+    "ticker": "waves",
+    "price": "0.09504038214771937"
+  },
+  {
+    "name": "Pocket Network",
+    "ticker": "pokt",
+    "price": "0.05913833805489666"
+  },
+  {
+    "name": "Polis",
+    "ticker": "polis",
+    "price": "0.0106808959559871"
+  },
+  {
+    "name": "Polkadot",
+    "ticker": "dot",
+    "price": "5.833893328216795"
+  },
+  {
+    "name": "PolyAlpha Finance",
+    "ticker": "alpha",
+    "price": "0.5331243885458735"
+  },
+  {
+    "name": "Port Finance",
+    "ticker": "port",
+    "price": "0.02855533345934401"
+  },
+  {
+    "name": "Prism",
+    "ticker": "prism",
+    "price": "0.004529769493354012"
+  },
+  {
+    "name": "Prism Protocol",
+    "ticker": "prism",
+    "price": "0.005398988699524014"
+  },
+  {
+    "name": "PRiVCY",
+    "ticker": "priv",
+    "price": "0.004362854498246175"
+  },
+  {
+    "name": "Galxe",
+    "ticker": "gal",
+    "price": "1.569973796794344"
+  },
+  {
+    "name": "Prom",
+    "ticker": "prom",
+    "price": "4.589129927389599"
+  },
+  {
+    "name": "PSY Coin",
+    "ticker": "psy",
+    "price": "0.0002564745156155803"
+  },
+  {
+    "name": "PsyOptions",
+    "ticker": "psy",
+    "price": "0.02450101027503127"
+  },
+  {
+    "name": "Pundi X [OLD]",
+    "ticker": "npxs",
+    "price": "0.000110107795549509"
+  },
+  {
+    "name": "Pundi X",
+    "ticker": "pundix",
+    "price": "0.3958189611812267"
+  },
+  {
+    "name": "Qi Dao",
+    "ticker": "qi",
+    "price": "0.0929207876792452"
+  },
+  {
+    "name": "QiSwap",
+    "ticker": "qi",
+    "price": "0.01448531358730976"
+  },
+  {
+    "name": "Qtum",
+    "ticker": "qtum",
+    "price": "2.292000466317507"
+  },
+  {
+    "name": "QuarkChain",
+    "ticker": "qkc",
+    "price": "0.008656159077027806"
+  },
+  {
+    "name": "RAMP [OLD]",
+    "ticker": "ramp",
+    "price": "0.04084599818788218"
+  },
+  {
+    "name": "Ravencoin",
+    "ticker": "rvn",
+    "price": "0.02385301362100584"
+  },
+  {
+    "name": "Raydium",
+    "ticker": "ray",
+    "price": "0.2737972199177983"
+  },
+  {
+    "name": "RealLink",
+    "ticker": "real",
+    "price": "0.01886159173855025"
+  },
+  {
+    "name": "Real Realm",
+    "ticker": "real",
+    "price": "0.00010309179611531"
+  },
+  {
+    "name": "Realy Metaverse",
+    "ticker": "real",
+    "price": "0.122771747556133"
+  },
+  {
+    "name": "Reef",
+    "ticker": "reef",
+    "price": "0.003720854476053977"
+  },
+  {
+    "name": "renBTC",
+    "ticker": "renbtc",
+    "price": "17470.83212567154"
+  },
+  {
+    "name": "Render",
+    "ticker": "rndr",
+    "price": "0.6248662591630444"
+  },
+  {
+    "name": "REN",
+    "ticker": "ren",
+    "price": "0.09092554779790944"
+  },
+  {
+    "name": "Reserve Rights",
+    "ticker": "rsr",
+    "price": "0.004497771161322781"
+  },
+  {
+    "name": "Retawars GoldRose Token",
+    "ticker": "grt",
+    "price": "0.03039815631139378"
+  },
+  {
+    "name": "XRP",
+    "ticker": "xrp",
+    "price": "0.3938223585053679"
+  },
+  {
+    "name": "Rise Of Nebula",
+    "ticker": "ron",
+    "price": "1.766991087118012e-11"
+  },
+  {
+    "name": "Ronin",
+    "ticker": "ron",
+    "price": "0.2350325320449331"
+  },
+  {
+    "name": "Rook",
+    "ticker": "rook",
+    "price": "14.62764354515617"
+  },
+  {
+    "name": "Rose",
+    "ticker": "rose",
+    "price": "0.00150974587237986"
+  },
+  {
+    "name": "Rune",
+    "ticker": "rune",
+    "price": "29.9601283827054"
+  },
+  {
+    "name": "Sai",
+    "ticker": "sai",
+    "price": "6.474758751969113"
+  },
+  {
+    "name": "San Diego Coin",
+    "ticker": "sand",
+    "price": "0.0008512256223331301"
+  },
+  {
+    "name": "SatoshiCity",
+    "ticker": "city",
+    "price": "0.0006243428780280733"
+  },
+  {
+    "name": "ScarpaCoin",
+    "ticker": "sc",
+    "price": "0.0"
+  },
+  {
+    "name": "Secret",
+    "ticker": "scrt",
+    "price": "0.7235884615714112"
+  },
+  {
+    "name": "Serum",
+    "ticker": "srm",
+    "price": "0.4468390204453603"
+  },
+  {
+    "name": "Serum Ecosystem",
+    "ticker": "seco",
+    "price": "0.7403015317412256"
+  },
+  {
+    "name": "Shiba Inu",
+    "ticker": "shib",
+    "price": "1.014958679093375e-05"
+  },
+  {
+    "name": "Shiba Inu (Wormhole)",
+    "ticker": "shib",
+    "price": "9.862617730514367e-06"
+  },
+  {
+    "name": "ShibChain",
+    "ticker": "sc",
+    "price": "1.496577895266715e-09"
+  },
+  {
+    "name": "ShitCoin",
+    "ticker": "shit",
+    "price": "1.795951764388674e-08"
+  },
+  {
+    "name": "Siacoin",
+    "ticker": "sc",
+    "price": "0.002648668562625347"
+  },
+  {
+    "name": "SKALE",
+    "ticker": "skl",
+    "price": "0.02819452211585925"
+  },
+  {
+    "name": "Smooth Love Potion",
+    "ticker": "slp",
+    "price": "0.002663023281252397"
+  },
+  {
+    "name": "Solana",
+    "ticker": "sol",
+    "price": "17.62824606974539"
+  },
+  {
+    "name": "Solend",
+    "ticker": "slnd",
+    "price": "0.3749931155814311"
+  },
+  {
+    "name": "Tulip Protocol",
+    "ticker": "tulip",
+    "price": "2.173742009333863"
+  },
+  {
+    "name": "Solrise Finance",
+    "ticker": "slrs",
+    "price": "0.005647074488148301"
+  },
+  {
+    "name": "SOL (Wormhole)",
+    "ticker": "sol",
+    "price": "17.43203923741112"
+  },
+  {
+    "name": "SOS Foundation",
+    "ticker": "sos",
+    "price": "0.0005090897170559615"
+  },
+  {
+    "name": "Spartacus",
+    "ticker": "spa",
+    "price": "1.003865091375082"
+  },
+  {
+    "name": "Spartans",
+    "ticker": "spa",
+    "price": "0.0006314323469570797"
+  },
+  {
+    "name": "Spell",
+    "ticker": "spell",
+    "price": "0.0007162435254119981"
+  },
+  {
+    "name": "Sperax",
+    "ticker": "spa",
+    "price": "0.007169319854439088"
+  },
+  {
+    "name": "Lido Staked Ether",
+    "ticker": "steth",
+    "price": "1274.086231661795"
+  },
+  {
+    "name": "Star Atlas",
+    "ticker": "atlas",
+    "price": "0.003163435021145001"
+  },
+  {
+    "name": "Star Atlas DAO",
+    "ticker": "polis",
+    "price": "0.2352050392555715"
+  },
+  {
+    "name": "Stargate Finance",
+    "ticker": "stg",
+    "price": "0.4052705527194513"
+  },
+  {
+    "name": "Stargaze",
+    "ticker": "stars",
+    "price": "0.0501121064824588"
+  },
+  {
+    "name": "StarLaunch",
+    "ticker": "stars",
+    "price": "0.03140748802298191"
+  },
+  {
+    "name": "StarShip Stars",
+    "ticker": "stars",
+    "price": "5.3028604596936e-08"
+  },
+  {
+    "name": "StaykX",
+    "ticker": "stx",
+    "price": "0.001850609888698155"
+  },
+  {
+    "name": "Stellar",
+    "ticker": "xlm",
+    "price": "0.0966087882820609"
+  },
+  {
+    "name": "Step",
+    "ticker": "step",
+    "price": "0.0008029923154392269"
+  },
+  {
+    "name": "Step Finance",
+    "ticker": "step",
+    "price": "0.008279451175184357"
+  },
+  {
+    "name": "Step Hero Soul",
+    "ticker": "step",
+    "price": "0.0001153922567928818"
+  },
+  {
+    "name": "STEPN",
+    "ticker": "gmt",
+    "price": "0.4107317943030687"
+  },
+  {
+    "name": "Storj",
+    "ticker": "storj",
+    "price": "0.3346097669535321"
+  },
+  {
+    "name": "StormX",
+    "ticker": "stmx",
+    "price": "0.005064623208685295"
+  },
+  {
+    "name": "Stox",
+    "ticker": "stx",
+    "price": "0.003412250489829931"
+  },
+  {
+    "name": "Sun Token",
+    "ticker": "sun",
+    "price": "0.005604557770535677"
+  },
+  {
+    "name": "Sushi",
+    "ticker": "sushi",
+    "price": "1.223141071073435"
+  },
+  {
+    "name": "Sweatcoin - Sweat Economy",
+    "ticker": "sweat",
+    "price": "0.01500103455572893"
+  },
+  {
+    "name": "SXP",
+    "ticker": "sxp",
+    "price": "0.2403182226937082"
+  },
+  {
+    "name": "Synapse",
+    "ticker": "syn",
+    "price": "0.611808119526321"
+  },
+  {
+    "name": "Synthetify",
+    "ticker": "sny",
+    "price": "0.0938639305140755"
+  },
+  {
+    "name": "Teleport",
+    "ticker": "port",
+    "price": "0.004891283165674135"
+  },
+  {
+    "name": "Terra Luna Classic",
+    "ticker": "lunc",
+    "price": "0.0001988263652069608"
+  },
+  {
+    "name": "TerraClassicUSD",
+    "ticker": "ustc",
+    "price": "0.02552438014710104"
+  },
+  {
+    "name": "Tether",
+    "ticker": "usdt",
+    "price": "1.001375037829572"
+  },
+  {
+    "name": "Euro Tether",
+    "ticker": "eurt",
+    "price": "1.026371959492088"
+  },
+  {
+    "name": "Tether Gold",
+    "ticker": "xaut",
+    "price": "1717.683302724563"
+  },
+  {
+    "name": "Tezos",
+    "ticker": "xtz",
+    "price": "1.12219058494745"
+  },
+  {
+    "name": "The Graph",
+    "ticker": "grt",
+    "price": "0.06845388703226078"
+  },
+  {
+    "name": "The Sandbox",
+    "ticker": "sand",
+    "price": "0.6559415559481062"
+  },
+  {
+    "name": "The Sandbox (Wormhole)",
+    "ticker": "sand",
+    "price": "0.645110282125537"
+  },
+  {
+    "name": "Theta Network",
+    "ticker": "theta",
+    "price": "0.9962195237909394"
+  },
+  {
+    "name": "THORChain",
+    "ticker": "rune",
+    "price": "1.204704745847249"
+  },
+  {
+    "name": "THORChain (ERC20)",
+    "ticker": "rune",
+    "price": "1.152410193502893"
+  },
+  {
+    "name": "TomoChain",
+    "ticker": "tomo",
+    "price": "0.3048045249578384"
+  },
+  {
+    "name": "Tortuga Staked Aptos",
+    "ticker": "tapt",
+    "price": "4.551049613406573"
+  },
+  {
+    "name": "TRON",
+    "ticker": "trx",
+    "price": "0.05758422183250248"
+  },
+  {
+    "name": "TRON (BSC)",
+    "ticker": "trx",
+    "price": "0.0575304569987398"
+  },
+  {
+    "name": "Truebit Protocol",
+    "ticker": "tru",
+    "price": "0.1014152175396943"
+  },
+  {
+    "name": "TrueFi",
+    "ticker": "tru",
+    "price": "0.03634316671735164"
+  },
+  {
+    "name": "TrueUSD",
+    "ticker": "tusd",
+    "price": "1.003240370142641"
+  },
+  {
+    "name": "Try.Finance",
+    "ticker": "try",
+    "price": "0.4688185301969107"
+  },
+  {
+    "name": "TryHards",
+    "ticker": "try",
+    "price": "0.004029733092606138"
+  },
+  {
+    "name": "Umee",
+    "ticker": "umee",
+    "price": "0.008675936167823141"
+  },
+  {
+    "name": "UNICORN",
+    "ticker": "uni",
+    "price": "5.788824694974354"
+  },
+  {
+    "name": "Uniswap",
+    "ticker": "uni",
+    "price": "5.723364618726654"
+  },
+  {
+    "name": "unified Stable Dollar",
+    "ticker": "usd",
+    "price": "0.5752647599079177"
+  },
+  {
+    "name": "Uniswap (Wormhole)",
+    "ticker": "uni",
+    "price": "5.719887822775193"
+  },
+  {
+    "name": "UpBots",
+    "ticker": "ubxt",
+    "price": "0.001704911039515155"
+  },
+  {
+    "name": "USD Coin",
+    "ticker": "usdc",
+    "price": "1.003747951730227"
+  },
+  {
+    "name": "USD Coin Avalanche Bridged (USDC.e)",
+    "ticker": "usdc",
+    "price": "0.9999714812457662"
+  },
+  {
+    "name": "USDP Stablecoin",
+    "ticker": "usdp",
+    "price": "1.001687965496867"
+  },
+  {
+    "name": "VeChain",
+    "ticker": "vet",
+    "price": "0.02186958360200317"
+  },
+  {
+    "name": "Waves",
+    "ticker": "waves",
+    "price": "2.482618035097869"
+  },
+  {
+    "name": "WazirX",
+    "ticker": "wrx",
+    "price": "0.1626297062508029"
+  },
+  {
+    "name": "Wrapped Bitcoin",
+    "ticker": "wbtc",
+    "price": "17511.94525122283"
+  },
+  {
+    "name": "Wrapped Flow",
+    "ticker": "wflow",
+    "price": "1.321745141335658"
+  },
+  {
+    "name": "Wrapped Solana",
+    "ticker": "sol",
+    "price": "17.40059910964367"
+  },
+  {
+    "name": "Wrapped Terra Classic",
+    "ticker": "lunc",
+    "price": "0.0001925010751179393"
+  },
+  {
+    "name": "Wrapped USTC",
+    "ticker": "ustc",
+    "price": "0.0255902592437628"
+  },
+  {
+    "name": "XPLA",
+    "ticker": "xpla",
+    "price": "0.2920999346924542"
+  },
+  {
+    "name": "yearn.finance",
+    "ticker": "yfi",
+    "price": "6542.14604560322"
+  },
+  {
+    "name": "DFI.money",
+    "ticker": "yfii",
+    "price": "1863.543892733033"
+  },
+  {
+    "name": "Yield Guild Games",
+    "ticker": "ygg",
+    "price": "0.2453068504268746"
+  },
+  {
+    "name": "Zcash",
+    "ticker": "zec",
+    "price": "39.43912580815419"
+  },
+  {
+    "name": "Flux",
+    "ticker": "flux",
+    "price": "0.469840175364348"
+  },
+  {
+    "name": "Horizen",
+    "ticker": "zen",
+    "price": "10.48605093398519"
+  },
+  {
+    "name": "Zilliqa",
+    "ticker": "zil",
+    "price": "0.02385874393239014"
+  },
+  {
+    "name": "HolyGrails.io",
+    "ticker": "holy",
+    "price": "2.375675228747156"
+  }
+]
